@@ -1,4 +1,26 @@
-### Wendell Cunha
+## Wendell Cunha
+#### Iniciando como Desenvolvedor de Software.
+#### Mestrando em Matemática pela UFMG.
+
+###### *Aprender é maravilhoso*
+
+[Linkedin](https://www.linkedin.com/in/wendell-cunha/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **wendell-cunha/wendell-cunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
