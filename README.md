@@ -1,8 +1,10 @@
 ## Wendell Cunha
-#### Iniciando como Desenvolvedor de Software.
-#### Mestrando em Matemática pela UFMG.
 
-###### *Aprender é maravilhoso*
+- 🔭 Software developer
+- 🌱 Master's in Mathematics at UFMG
+
+
+
 
 [Linkedin](https://www.linkedin.com/in/wendell-cunha/)
 
